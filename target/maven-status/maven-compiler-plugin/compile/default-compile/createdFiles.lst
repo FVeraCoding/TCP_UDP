@@ -1,8 +1,12 @@
 TCP\Ejercicio3\Servidor.class
+UDP\Ejercicio5_Chat\Cliente.class
+UDP\Ejercicio6_infoArchivo\Servidor.class
 UDP\Ejercicio3\Servidor.class
 UDP\Ejercicio1\Servidor.class
 TCP\Ejercicio1\Servidor.class
+TCP\Ejercicio4_Chat\Servidor.class
 TCP\Ejercicio3\Cliente.class
+TCP\Ejercicio5_infoArchivo\Cliente.class
 UDP\Ejercicio4\Servidor.class
 UDP\Ejercicio4\Cliente.class
 UDP\Ejercicio2\Cliente.class
@@ -11,4 +15,8 @@ TCP\Ejercicio1\Cliente.class
 TCP\Ejercicio2\Servidor.class
 UDP\Ejercicio3\Cliente.class
 TCP\Ejercicio2\Cliente.class
+TCP\Ejercicio4_Chat\Cliente.class
+TCP\Ejercicio5_infoArchivo\Servidor.class
+UDP\Ejercicio5_Chat\Servidor.class
 UDP\Ejercicio1\Cliente.class
+UDP\Ejercicio6_infoArchivo\Cliente.class
